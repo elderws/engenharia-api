@@ -80,7 +80,7 @@ mysql -u root -p engenharia_app < dump/engenharia_app.sql
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/engenharia-api.git
+git clone https://github.com/elderws/engenharia-api.git
 cd engenharia-api
 
 # Instale as dependências
